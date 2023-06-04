@@ -1,1 +1,1 @@
-# redis-sample
+Encrypted Redis replication group with CMK
